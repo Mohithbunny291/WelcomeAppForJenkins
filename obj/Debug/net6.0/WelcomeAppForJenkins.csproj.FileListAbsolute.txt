@@ -1,0 +1,14 @@
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\bin\Debug\net6.0\WelcomeAppForJenkins.exe
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\bin\Debug\net6.0\WelcomeAppForJenkins.deps.json
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\bin\Debug\net6.0\WelcomeAppForJenkins.runtimeconfig.json
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\bin\Debug\net6.0\WelcomeAppForJenkins.dll
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\bin\Debug\net6.0\WelcomeAppForJenkins.pdb
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.AssemblyInfoInputs.cache
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.AssemblyInfo.cs
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.csproj.CoreCompileInputs.cache
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.dll
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\refint\WelcomeAppForJenkins.dll
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.pdb
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\WelcomeAppForJenkins.genruntimeconfig.cache
+C:\Users\mohit\Desktop\MphasisWork\DOTNET Projects\Phase 3\Jenkins\WelcomeAppForJenkins\WelcomeAppForJenkins\obj\Debug\net6.0\ref\WelcomeAppForJenkins.dll
